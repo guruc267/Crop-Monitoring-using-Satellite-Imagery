@@ -13,3 +13,5 @@ Preprocessing: Align and clean images, handle any missing values, and resample b
 Index Calculation: Compute NDVI, GNDVI, NDMI, and SAVI values using bands relevant to vegetation health, moisture levels, and soil-vegetation interaction.
 Classification & Analysis: Train a Random Forest classifier to categorize crop health levels into different density classes based on NDVI and other indices, allowing for robust crop health monitoring and growth analysis. Perform time series analysis to observe changes over time and track crop phenology.
 Visualization: Create a dynamic dashboard to visualize crop health trends, growth stages, and index variations over the season.
+
+![image](https://github.com/user-attachments/assets/38fb6ccb-21f1-4096-8bf0-34f484bc5635)
