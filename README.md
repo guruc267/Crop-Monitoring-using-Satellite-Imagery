@@ -3,7 +3,7 @@
 
 This project leverages satellite imagery and advanced data analytics to monitor crop health, predict yield, and detect issues such as drought, pests, and diseases. By utilizing remote sensing technology, farmers, agricultural researchers, and policymakers can gain valuable insights into crop conditions without the need for extensive field surveys.
 
-### Contributor : S Nithin  https://github.com/SreenivasNithin
+### Collaborator : S Nithin  https://github.com/SreenivasNithin
 ## **🌍 How This Project Helps the Community**
 
 
